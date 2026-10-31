@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "Endless Wake V4: Living Tides",
+  "short_name": "Endless Wake",
+  "description": "Sail the open sea, fish, trade, and dock at island harbors.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#071d2b",
+  "theme_color": "#062b3b",
+  "categories": ["games", "entertainment"]
+}
