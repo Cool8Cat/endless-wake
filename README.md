@@ -1,9 +1,11 @@
 # Endless Wake
 
-A browser sailing game with two versions:
+A browser sailing game with two versions.
 
-- **V4 · Living Tides**: a top-down sea rendered with Canvas 2D.
-- **V5 · Voxel**: a three-dimensional archipelago rendered with WebGL.
+## Play online
+
+- [V4 · Living Tides](https://endless-wake.pages.dev/v4/): a top-down sea rendered with Canvas 2D.
+- [V5 · Voxel](https://endless-wake.pages.dev/v5/): a three-dimensional archipelago rendered with WebGL.
 
 Sail between islands, salvage cargo, fish, trade, and face hazards at sea. V4 saves voyages in the browser; V5 keeps the current voyage for the lifetime of the page.
 
